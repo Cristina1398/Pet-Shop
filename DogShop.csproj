@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D8193589-1336-4867-AB86-4C7B14EE24AB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DogShop</RootNamespace>
+    <AssemblyName>DogShop</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Database1DataSet.cs">
+      <DependentUpon>Database1DataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Database1DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Database1DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Meniu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Meniu.Designer.cs">
+      <DependentUpon>Meniu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdaugaCaine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdaugaCaine.Designer.cs">
+      <DependentUpon>AdaugaCaine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BazaDeDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BazaDeDate.Designer.cs">
+      <DependentUpon>BazaDeDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VanzareAccesorii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VanzareAccesorii.Designer.cs">
+      <DependentUpon>VanzareAccesorii.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VizualizareCaini.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VizualizareCaini.Designer.cs">
+      <DependentUpon>VizualizareCaini.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AccesoriiCatei.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccesoriiCatei.Designer.cs">
+      <DependentUpon>AccesoriiCatei.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OS.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Meniu.resx">
+      <DependentUpon>Meniu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdaugaCaine.resx">
+      <DependentUpon>AdaugaCaine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BazaDeDate.resx">
+      <DependentUpon>BazaDeDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VanzareAccesorii.resx">
+      <DependentUpon>VanzareAccesorii.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VizualizareCaini.resx">
+      <DependentUpon>VizualizareCaini.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AccesoriiCatei.resx">
+      <DependentUpon>AccesoriiCatei.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Database1DataSet.xsc">
+      <DependentUpon>Database1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Database1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Database1DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Database1DataSet.xss">
+      <DependentUpon>Database1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Database1.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Database1_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Database1.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\trimite comanda.png" />
+    <None Include="Resources\iesire3.png" />
+    <None Include="Resources\comanda noua.png" />
+    <None Include="Resources\adauga produse.png" />
+    <None Include="Resources\os9.png" />
+    <None Include="Resources\dog-shopping.jpg" />
+    <None Include="Resources\mancare.jpg" />
+    <None Include="Resources\hainutaa.png" />
+    <None Include="Resources\130.png" />
+    <None Include="Resources\Lesă.png" />
+    <None Include="Resources\casuta.jpg" />
+    <None Include="Resources\lesa.png" />
+    <None Include="Resources\perna.png" />
+    <None Include="Resources\jucarii.png" />
+    <None Include="Resources\5-ways-to-make-your-dog-happy.jpg" />
+    <None Include="Resources\HuskyDog.png" />
+    <None Include="Resources\Husky.png" />
+    <None Include="Resources\18191491_120332000414581516_1273328684_n.png" />
+    <None Include="Resources\Labrador2.png" />
+    <None Include="Resources\YorkshireTerrier_cutout.png" />
+    <None Include="Resources\Labrador retriever ciocolatiu.png" />
+    <None Include="Resources\golden retriever pui.png" />
+    <None Include="Resources\pudel.png" />
+    <None Include="Resources\pudell.png" />
+    <None Include="Resources\labrador retrieverww.jpg" />
+    <None Include="Resources\pomerian.png" />
+    <None Include="Resources\Yorkshire-Terrier.png" />
+    <None Include="Resources\Rottweiler.png" />
+    <None Include="Resources\chihuahua.png" />
+    <None Include="Resources\Bichon frise.png" />
+    <None Include="Resources\bulldog francez.png" />
+    <None Include="Resources\Golden Retriever 2.png" />
+    <None Include="Resources\Golden Retriever 1.png" />
+    <None Include="Resources\Beagle.png" />
+    <None Include="Resources\Labdrador Retriver pui.png" />
+    <None Include="Resources\Labdrador Retriver 1.png" />
+    <None Include="Resources\Husky Siberian 2.png" />
+    <None Include="Resources\mops1.png" />
+    <None Include="Resources\Husky Siberian 1.png" />
+    <None Include="Resources\dog_store.png" />
+    <None Include="Resources\vizualizare.png" />
+    <None Include="Resources\Adauga.png" />
+    <None Include="Resources\black-paws-hi.png" />
+    <None Include="Resources\Paws.png" />
+    <None Include="Resources\Form3.png" />
+    <None Include="Resources\vizuliazare_caini.png" />
+    <None Include="Resources\logare_program.png" />
+    <None Include="Resources\iesire_dinprogram.png" />
+    <None Include="Resources\adauga_caine.png" />
+    <None Include="Resources\accesorii_caine.png" />
+    <None Include="Resources\Adauga caini.png" />
+    <None Include="Resources\Accesorii caini.png" />
+    <None Include="Resources\vizualizare caini.png" />
+    <None Include="Resources\logare.png" />
+    <None Include="Resources\iesire.png" />
+    <None Include="Resources\ss.png.png" />
+    <None Include="Resources\petshop8.png" />
+    <None Include="Resources\buttooon.png" />
+    <None Include="Resources\butonul.png" />
+    <None Include="Resources\cute-dog-store-pet-shop-logo-template-01-.png.jpg" />
+    <None Include="Resources\cute-dog-store-pet-shop-logo-template-01-.png1.jpg" />
+    <None Include="Resources\images.jpg" />
+    <None Include="Resources\1345653807-7dc759e0458afaed4c371bf8fe5ec0c2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

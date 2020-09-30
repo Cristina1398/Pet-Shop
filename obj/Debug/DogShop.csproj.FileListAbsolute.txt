@@ -1,0 +1,68 @@
+C:\Users\Rotariu Cristina\Desktop\DogShop\DogShop\DogShop\bin\Debug\DogShop.exe.config
+C:\Users\Rotariu Cristina\Desktop\DogShop\DogShop\DogShop\bin\Debug\Database1.mdf
+C:\Users\Rotariu Cristina\Desktop\DogShop\DogShop\DogShop\bin\Debug\Database1_log.ldf
+C:\Users\Rotariu Cristina\Desktop\DogShop\DogShop\DogShop\bin\Debug\DogShop.exe
+C:\Users\Rotariu Cristina\Desktop\DogShop\DogShop\DogShop\bin\Debug\DogShop.pdb
+C:\Users\Rotariu Cristina\Desktop\DogShop\DogShop\DogShop\obj\Debug\DogShop.csprojResolveAssemblyReference.cache
+C:\Users\Rotariu Cristina\Desktop\DogShop\DogShop\DogShop\obj\Debug\DogShop.Properties.Resources.resources
+C:\Users\Rotariu Cristina\Desktop\DogShop\DogShop\DogShop\obj\Debug\DogShop.csproj.GenerateResource.Cache
+C:\Users\Rotariu Cristina\Desktop\DogShop\DogShop\DogShop\obj\Debug\DogShop.exe
+C:\Users\Rotariu Cristina\Desktop\DogShop\DogShop\DogShop\obj\Debug\DogShop.pdb
+C:\Users\Rotariu Cristina\Desktop\DogShop\DogShop\DogShop\obj\Debug\DogShop.Form2.resources
+C:\Users\Rotariu Cristina\Desktop\DogShop\DogShop\DogShop\obj\Debug\DogShop.Form1.resources
+C:\Users\Rotariu Cristina\Desktop\DogShop\DogShop\DogShop\obj\Debug\DogShop.Form3.resources
+C:\Users\Rotariu Cristina\Desktop\DogShop\DogShop\DogShop\obj\Debug\DogShop.Form4.resources
+C:\Users\Rotariu Cristina\Desktop\DogShop\DogShop\DogShop\obj\Debug\DogShop.Form5.resources
+C:\Users\Rotariu Cristina\Desktop\DogShop\DogShop\DogShop\obj\Debug\DogShop.Form6.resources
+C:\Users\Rotariu Cristina\Desktop\DogShop1\DogShop\DogShop\bin\Debug\DogShop.exe.config
+C:\Users\Rotariu Cristina\Desktop\DogShop1\DogShop\DogShop\obj\Debug\DogShop.exe
+C:\Users\Rotariu Cristina\Desktop\DogShop1\DogShop\DogShop\obj\Debug\DogShop.pdb
+C:\Users\Rotariu Cristina\Desktop\DogShop1\DogShop\DogShop\bin\Debug\Database1.mdf
+C:\Users\Rotariu Cristina\Desktop\DogShop1\DogShop\DogShop\bin\Debug\Database1_log.ldf
+C:\Users\Rotariu Cristina\Desktop\DogShop1\DogShop\DogShop\bin\Debug\DogShop.exe
+C:\Users\Rotariu Cristina\Desktop\DogShop1\DogShop\DogShop\bin\Debug\DogShop.pdb
+C:\Users\Rotariu Cristina\Desktop\DogShop1\DogShop\DogShop\obj\Debug\DogShop.csprojResolveAssemblyReference.cache
+C:\Users\Rotariu Cristina\Desktop\DogShop1\DogShop\DogShop\obj\Debug\DogShop.Properties.Resources.resources
+C:\Users\Rotariu Cristina\Desktop\DogShop1\DogShop\DogShop\obj\Debug\DogShop.csproj.GenerateResource.Cache
+C:\Users\Rotariu Cristina\Desktop\DogShop1\DogShop\DogShop\obj\Debug\DogShop.AdaugaCaine.resources
+C:\Users\Rotariu Cristina\Desktop\DogShop1\DogShop\DogShop\obj\Debug\DogShop.AccesoriiCatei.resources
+C:\Users\Rotariu Cristina\Desktop\DogShop1\DogShop\DogShop\obj\Debug\DogShop.Login.resources
+C:\Users\Rotariu Cristina\Desktop\DogShop1\DogShop\DogShop\obj\Debug\DogShop.Meniu.resources
+C:\Users\Rotariu Cristina\Desktop\DogShop1\DogShop\DogShop\obj\Debug\DogShop.BazaDeDate.resources
+C:\Users\Rotariu Cristina\Desktop\DogShop1\DogShop\DogShop\obj\Debug\DogShop.VizualizareCaini.resources
+C:\Users\Rotariu Cristina\Desktop\DogShop1\DogShop\DogShop\obj\Debug\DogShop.VanzareAccesorii.resources
+C:\Users\rotar\Desktop\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\bin\Debug\Database1.mdf
+C:\Users\rotar\Desktop\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\bin\Debug\Database1_log.ldf
+C:\Users\rotar\Desktop\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\bin\Debug\DogShop.exe.config
+C:\Users\rotar\Desktop\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\bin\Debug\DogShop.exe
+C:\Users\rotar\Desktop\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\bin\Debug\DogShop.pdb
+C:\Users\rotar\Desktop\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\obj\Debug\DogShop.csprojAssemblyReference.cache
+C:\Users\rotar\Desktop\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\obj\Debug\DogShop.Login.resources
+C:\Users\rotar\Desktop\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\obj\Debug\DogShop.Meniu.resources
+C:\Users\rotar\Desktop\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\obj\Debug\DogShop.AdaugaCaine.resources
+C:\Users\rotar\Desktop\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\obj\Debug\DogShop.BazaDeDate.resources
+C:\Users\rotar\Desktop\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\obj\Debug\DogShop.VanzareAccesorii.resources
+C:\Users\rotar\Desktop\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\obj\Debug\DogShop.VizualizareCaini.resources
+C:\Users\rotar\Desktop\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\obj\Debug\DogShop.AccesoriiCatei.resources
+C:\Users\rotar\Desktop\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\obj\Debug\DogShop.Properties.Resources.resources
+C:\Users\rotar\Desktop\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\obj\Debug\DogShop.csproj.GenerateResource.cache
+C:\Users\rotar\Desktop\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\obj\Debug\DogShop.csproj.CoreCompileInputs.cache
+C:\Users\rotar\Desktop\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\obj\Debug\DogShop.exe
+C:\Users\rotar\Desktop\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\obj\Debug\DogShop.pdb
+E:\Atestat\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\bin\Debug\DogShop.exe.config
+E:\Atestat\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\obj\Debug\DogShop.exe
+E:\Atestat\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\obj\Debug\DogShop.pdb
+E:\Atestat\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\bin\Debug\Database1.mdf
+E:\Atestat\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\bin\Debug\Database1_log.ldf
+E:\Atestat\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\bin\Debug\DogShop.exe
+E:\Atestat\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\bin\Debug\DogShop.pdb
+E:\Atestat\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\obj\Debug\DogShop.csprojResolveAssemblyReference.cache
+E:\Atestat\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\obj\Debug\DogShop.Login.resources
+E:\Atestat\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\obj\Debug\DogShop.Meniu.resources
+E:\Atestat\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\obj\Debug\DogShop.AdaugaCaine.resources
+E:\Atestat\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\obj\Debug\DogShop.BazaDeDate.resources
+E:\Atestat\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\obj\Debug\DogShop.VanzareAccesorii.resources
+E:\Atestat\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\obj\Debug\DogShop.VizualizareCaini.resources
+E:\Atestat\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\obj\Debug\DogShop.AccesoriiCatei.resources
+E:\Atestat\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\obj\Debug\DogShop.Properties.Resources.resources
+E:\Atestat\Atestat-DogShop.zip (Unzipped Files)-20190415T142321Z-001\Atestat-DogShop.zip (Unzipped Files)\DogShop1\DogShop\DogShop\obj\Debug\DogShop.csproj.GenerateResource.Cache
